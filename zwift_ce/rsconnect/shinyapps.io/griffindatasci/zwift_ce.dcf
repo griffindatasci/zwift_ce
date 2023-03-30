@@ -1,0 +1,13 @@
+name: zwift_ce
+title: zwift_ce
+username:
+account: griffindatasci
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8718977
+bundleId: 7028588
+url: https://griffindatasci.shinyapps.io/zwift_ce/
+when: 1680184658.5909
+lastSyncTime: 1680184658.59091
+asMultiple: FALSE
+asStatic: FALSE
